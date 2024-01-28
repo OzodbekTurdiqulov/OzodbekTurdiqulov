@@ -3,10 +3,10 @@
 
 - 🌱 I’m currently learning python,C++,Django,Html,CSS,PostgreSQL/MySQL
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact me by telegram:</h3>
 
 <p align="left">
-https://t.me/Azizxon_2008
+https://t.me/Azizxon_2008  or  https://t.me/Azizxon_29_08_2008
 </p>
 
 
